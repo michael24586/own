@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "M&A Computer Repairs",
-    "currentPage": "index.html",
+    "currentPage": "home.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -28,11 +28,11 @@
     "versionPublish": "3.12.1"
   },
   "pages": {
-    "index.html": {
+    "home.html": {
       "settings": {
         "main": true,
-        "title": "",
-        "meta_descr": "",
+        "title": "Home ",
+        "meta_descr": "Our Story",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -109,7 +109,7 @@
             "logo": true,
             "showBrand": true,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
