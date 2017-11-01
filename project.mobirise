@@ -85,7 +85,11 @@
             "P": {
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "text-align": "left"
+              "text-align": "left",
+              "color": "#000000"
+            },
+            "SPAN": {
+              "color": "#000000"
             }
           },
           "_anchor": "header1-1",
